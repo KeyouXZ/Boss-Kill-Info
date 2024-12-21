@@ -28,13 +28,8 @@ When a boss is killed, a message like the following will be displayed:
 - Player3 damage: 2000 (20.0%)
 ```
 
-## Development
-
-To contribute to the development of this plugin:
-
-1. Clone the repository.
-2. Open the project in your preferred C# IDE.
-3. Make your changes and submit a pull request.
+## Preview
+![Preview](./image.png)
 
 ## License
 
